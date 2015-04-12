@@ -1,0 +1,24 @@
+body{
+  background-color: black;
+  color:white;
+}
+
+h1{
+  text-align: center;
+}
+
+.square{
+  display: inline-block;
+  border: 1px solid;
+}
+
+.grid{
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  font-size: 0;
+}
+
+.highlighted {
+  background-color: grey;
+}
